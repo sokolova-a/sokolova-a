@@ -12,8 +12,22 @@ Hi there! I'm Sokolova Anna 👋
 
 ## Languages and Tools: ##
 ![](https://github.com/sokolova-a/good-code/assets/122925398/7b0ecea8-6f2e-4fef-aa4a-4ad4f4d26502)  Pandas, Numpy, Matplotlib, Scipy, Seaborn, Dash\
-![](https://github.com/sokolova-a/good-code/assets/122925398/ca9549fe-3fe9-412d-9392-73366c117354) \
-![](https://github.com/sokolova-a/sokolova-a/assets/122925398/5900ce3c-41cf-441e-b8ce-2d77e0991bf4)
+![](https://github.com/sokolova-a/good-code/assets/122925398/ca9549fe-3fe9-412d-9392-73366c117354) 
+![](https://github.com/sokolova-a/sokolova-a/assets/122925398/605375ce-8d1a-4c82-bd92-5bccd6cd987a)
+![image](https://github.com/sokolova-a/sokolova-a/assets/122925398/b15be249-b243-4d97-9647-bf2863a325da)
+![image](https://github.com/sokolova-a/sokolova-a/assets/122925398/ca32d3be-33ee-45aa-884b-a552b288de12)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
