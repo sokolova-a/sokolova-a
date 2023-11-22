@@ -3,8 +3,8 @@ Hi there! I'm Sokolova Anna 👋
 ## I'm data analyst! ##
 
 * 🔭 I like to see the meaning behind the numbers and transform the data into valuable information that will help in making a decision.
-* 🥅 2023 Goals: I made the loggia completely for remote work! Yeeeah 😊
-* ⚡ Fun fact: The cat is now on the loggia all the time. Hey, this is my place!
+* 🥅 2023 Goals: Make dashboards in 3 different programs. 
+* ⚡ Fun fact: My cat knows dashboards no less than me. At least judging by the time that he spends sitting nearby. 😊
 
 ## Connect with me ##
 ![https://www.linkedin.com/in/anna-sokolova-77a9b3163/](https://github.com/sokolova-a/good-code/assets/122925398/c34c023c-e2d5-4052-b003-647de259819f)
