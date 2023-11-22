@@ -2,7 +2,7 @@ Hi there! I'm Sokolova Anna 👋
 
 ## I'm data analyst! ##
 
-* 🔭 I am in active job search. I will be delighted to take part in projects on game analytics!
+* 🔭 I like to see the meaning behind the numbers and transform the data into valuable information that will help in making a decision.
 * 🥅 2023 Goals: I made the loggia completely for remote work! Yeeeah 😊
 * ⚡ Fun fact: The cat is now on the loggia all the time. Hey, this is my place!
 
